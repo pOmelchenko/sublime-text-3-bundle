@@ -1,5 +1,5 @@
 # My sublime text 3 bundle
-My settings for working in SABLIM text
+My settings for working in Sublime text 3
 
 ## Plugins
 AutoFileName   
