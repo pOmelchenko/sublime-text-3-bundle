@@ -8,6 +8,7 @@
 	[
 		"Vintage"
 	],
+	"show_encoding": true,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
