@@ -1,6 +1,6 @@
 {
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/darkula (SL).tmTheme",
+	"color_scheme": "Packages/Darkula Color Scheme/darkula.tmTheme",
 	"fallback_encoding": "Cyrillic (Windows 1251)",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
